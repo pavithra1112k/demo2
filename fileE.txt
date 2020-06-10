@@ -1,0 +1,2 @@
+This is fileE used to rewrite commit
+This is the modified version :)
